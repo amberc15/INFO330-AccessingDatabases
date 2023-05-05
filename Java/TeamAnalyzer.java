@@ -60,3 +60,4 @@ public class TeamAnalyzer {
         return System.console().readLine(msg);
     }
 }
+
